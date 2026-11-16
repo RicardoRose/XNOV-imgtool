@@ -1,4 +1,4 @@
-# Xnov — Free Image & Video Tools
+# Xnov imgtool— Free Image & Video Tools
 
 Free online image and video tools that run entirely in your browser.  
 No uploads, no signup, no watermarks, no usage limits.
